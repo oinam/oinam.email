@@ -1,2 +1,3 @@
-# oinam.email
-Email from Oinam.
+# Oinam.EMAIL
+
+[Oinam](https://oinam.com) Email
